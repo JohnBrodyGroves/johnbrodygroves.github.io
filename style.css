@@ -25,5 +25,5 @@ nav a {
     color: black;
 }
 nav a:hover {
-    text-decoration: italic;
+    text-decoration: line-through;
 }
