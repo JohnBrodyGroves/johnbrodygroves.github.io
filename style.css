@@ -1,1 +1,8 @@
-body { background-color: lightyellow; }
+body { background-color: floralwhite; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+h1 { font-size: 32px;
+    letter-spacing: 2px;
+    text-align: center;
+} 
